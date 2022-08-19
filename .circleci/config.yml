@@ -42,7 +42,7 @@ jobs:
           name: run lint
           command: |
             . venv/bin/activate
-            python manage.py test
+            # python manage.py test
 # workflows: 
 #   default:
 #     jobs: 
